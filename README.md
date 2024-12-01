@@ -2,18 +2,18 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-127.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hossein-khodabandeh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-127.gif"  />
 </div>
 
 ###
